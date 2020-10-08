@@ -167,6 +167,9 @@ input, select, textarea {
 			border-bottom-color: transparent;
 		}
 
+	p {
+		font-family: Tw Cen MT;
+	}
 	strong, b {
 		font-weight: 600;
 	}
